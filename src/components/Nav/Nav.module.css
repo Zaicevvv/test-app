@@ -1,0 +1,19 @@
+.nav {
+  width: 1120px;
+  display: flex;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  list-style-type: none;
+  background-color: grey;
+  min-height: 50px;
+  padding-left: 30px;
+}
+
+.navItem {
+  color: white;
+  margin-right: 20px;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 600;
+}
